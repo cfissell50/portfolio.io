@@ -62,6 +62,7 @@ main ul {
 h2 {
   font-size: 4em;
   color: lightgreen;
+  text-decoration: underline;
 }
 
 .skillbox {
